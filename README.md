@@ -3,4 +3,4 @@ Python code of my master's thesis "New clustering proposals for Twitter based on
 
 ![alt tag](equation.png)
 
-![alt tag](a44.png)
+![alt tag](a44.png =100x)
